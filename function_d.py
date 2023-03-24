@@ -3,7 +3,9 @@ def max_value(numbers):
         in the list.
     """
     max = max(numbers)
-    
+    print("We got the max!")
+    print("Yayyy!!!")
+
     return max
 
 if __name__ == "__main__":
