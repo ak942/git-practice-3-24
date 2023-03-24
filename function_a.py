@@ -14,4 +14,3 @@ def merge_lists(list_a, list_b):
         without any duplicate elements.
     """
     return list(set(list_a) | set(list_b))
-    return "Agnes"

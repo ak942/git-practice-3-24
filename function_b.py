@@ -16,5 +16,6 @@ def silly_sum():
             break
 
         num = int(input('Please enter a number => '))
+        print("this is new")
 
     return sum
